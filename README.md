@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devarasi/Leet-code-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Array
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
+## Two Pointers
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
+## String
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
