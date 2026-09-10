@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-shortest-completing-word](https://github.com/devarasi/Leet-code-solution/tree/master/0748-shortest-completing-word) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/devarasi/Leet-code-solution/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/devarasi/Leet-code-solution/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
