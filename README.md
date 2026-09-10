@@ -8,14 +8,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devarasi/Leet-code-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devarasi/Leet-code-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devarasi/Leet-code-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -39,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/devarasi/Leet-code-solution/tree/master/0944-delete-columns-to-make-sorted) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
