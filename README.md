@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/devarasi/Leet-code-solution/tree/master/0748-shortest-completing-word) |
 | [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devarasi/Leet-code-solution/tree/master/0944-delete-columns-to-make-sorted) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devarasi/Leet-code-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/devarasi/Leet-code-solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
