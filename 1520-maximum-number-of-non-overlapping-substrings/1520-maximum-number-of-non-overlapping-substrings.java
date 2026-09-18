@@ -1,125 +1,47 @@
 class Solution {
-
-    private int getRight(
-        String s,
-        int L,
-        int[] first,
-        int[] last
-    ) {
-
-        int R =
-            last[s.charAt(L) - 'a'];
-
-        for (int i = L; i <= R; i++) {
-
-            int c =
-                s.charAt(i) - 'a';
-
-            if (first[c] < L) {
-                return -1;
-            }
-
-            R = Math.max(
-                R,
-                last[c]
-            );
-        }
-
-        return R;
-    }
-
-    public List<String> maxNumOfSubstrings(
-        String s
-    ) {
-
-        int n = s.length();
-
+    public List<String> maxNumOfSubstrings(String s) {
         int[] first = new int[26];
         int[] last = new int[26];
-
-        Arrays.fill(first, n);
-        Arrays.fill(last, -1);
-
-        // Step 1: first and last occurrence.
-        for (int i = 0; i < n; i++) {
-
-            int c =
-                s.charAt(i) - 'a';
-
-            first[c] =
-                Math.min(first[c], i);
-
+        Arrays.fill(first, -1);
+        for (int i = 0; i < s.length(); i++) {
+            int c = s.charAt(i) - 'a';
+            if (first[c] == -1) {
+                first[c] = i;
+            }
             last[c] = i;
         }
-
-        List<int[]> intervals =
-            new ArrayList<>();
-
-        // Step 2: create minimal valid intervals.
-        for (int c = 0; c < 26; c++) {
-
-            if (first[c] == n) {
-                continue;
-            }
-
-            int L = first[c];
-
-            int R =
-                getRight(
-                    s,
-                    L,
-                    first,
-                    last
-                );
-
-            if (R != -1) {
-                intervals.add(
-                    new int[]{L, R}
-                );
+        List<String> res = new ArrayList<>();
+        int right = -1;
+        for (int i = 0; i < s.length(); i++) {
+            if (i == first[s.charAt(i) - 'a']) {
+                int newRight = checkValidRightBoundary(s, i, first, last);
+                
+                if (newRight != -1) {
+                   
+                    if (i > right) {
+                        res.add("");
+                    }
+                    
+                    right = newRight;
+                    res.set(res.size() - 1, s.substring(i, right + 1));
+                }
             }
         }
-
-        // Earliest ending first.
-        // Same end -> shorter interval first.
-        intervals.sort((a, b) -> {
-
-            if (a[1] != b[1]) {
-                return Integer.compare(
-                    a[1],
-                    b[1]
-                );
+        
+        return res;
+    }
+    
+    public int checkValidRightBoundary(String s, int i, int[] first, int[] last) {
+        int right = last[s.charAt(i) - 'a'];
+        for (int j = i; j <= right; j++) {
+            int c = s.charAt(j) - 'a';
+            if (first[c] < i) {
+                return -1;
             }
-
-            return Integer.compare(
-                b[0],
-                a[0]
-            );
-        });
-
-        List<String> ans =
-            new ArrayList<>();
-
-        int lastEnd = -1;
-
-        // Step 3: interval scheduling.
-        for (int[] interval : intervals) {
-
-            int L = interval[0];
-            int R = interval[1];
-
-            if (L > lastEnd) {
-
-                ans.add(
-                    s.substring(
-                        L,
-                        R + 1
-                    )
-                );
-
-                lastEnd = R;
-            }
+            
+           right = Math.max(right, last[c]);
         }
-
-        return ans;
+        
+        return right;
     }
 }
