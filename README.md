@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devarasi/Leet-code-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3871-count-commas-in-range-ii](https://github.com/devarasi/Leet-code-solution/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devarasi/Leet-code-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devarasi/Leet-code-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
