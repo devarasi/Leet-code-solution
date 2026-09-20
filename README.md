@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devarasi/Leet-code-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devarasi/Leet-code-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/devarasi/Leet-code-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devarasi/Leet-code-solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/devarasi/Leet-code-solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
