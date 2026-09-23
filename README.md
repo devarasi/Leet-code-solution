@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/devarasi/Leet-code-solution/tree/master/0748-shortest-completing-word) |
 | [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devarasi/Leet-code-solution/tree/master/0944-delete-columns-to-make-sorted) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devarasi/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devarasi/Leet-code-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/devarasi/Leet-code-solution/tree/master/3524-find-x-value-of-array-i) |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devarasi/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
 | [0748-shortest-completing-word](https://github.com/devarasi/Leet-code-solution/tree/master/0748-shortest-completing-word) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devarasi/Leet-code-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devarasi/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devarasi/Leet-code-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -102,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/devarasi/Leet-code-solution/tree/master/3498-reverse-degree-of-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devarasi/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devarasi/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
