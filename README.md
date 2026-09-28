@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devarasi/Leet-code-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0999-available-captures-for-rook](https://github.com/devarasi/Leet-code-solution/tree/master/0999-available-captures-for-rook) |
+| [1002-find-common-characters](https://github.com/devarasi/Leet-code-solution/tree/master/1002-find-common-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devarasi/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devarasi/Leet-code-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/devarasi/Leet-code-solution/tree/master/0748-shortest-completing-word) |
 | [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devarasi/Leet-code-solution/tree/master/0944-delete-columns-to-make-sorted) |
+| [1002-find-common-characters](https://github.com/devarasi/Leet-code-solution/tree/master/1002-find-common-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devarasi/Leet-code-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-shortest-completing-word](https://github.com/devarasi/Leet-code-solution/tree/master/0748-shortest-completing-word) |
+| [1002-find-common-characters](https://github.com/devarasi/Leet-code-solution/tree/master/1002-find-common-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devarasi/Leet-code-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devarasi/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devarasi/Leet-code-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
