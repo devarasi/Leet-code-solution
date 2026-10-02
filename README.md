@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/0022-generate-parentheses) |
 | [0748-shortest-completing-word](https://github.com/devarasi/Leet-code-solution/tree/master/0748-shortest-completing-word) |
 | [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devarasi/Leet-code-solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/0022-generate-parentheses) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/devarasi/Leet-code-solution/tree/master/3524-find-x-value-of-array-i) |
 ## Sorting
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devarasi/Leet-code-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/devarasi/Leet-code-solution/tree/master/0999-available-captures-for-rook) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
