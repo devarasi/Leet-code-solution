@@ -1,39 +1,42 @@
 class Solution {
+    private long mod = (long)1e9 + 7;
+    private long[][] table;
+
     public int numOfWays(int[] nums) {
-        final int MOD = 1000000007;
-        int n = nums.length;
-        long[] fact = new long[n + 1];
-        long[] inv = new long[n + 1];
-        fact[0] = 1;
-        for (int i = 1; i <= n; i++) fact[i] = fact[i - 1] * i % MOD;
-        inv[n] = modPow(fact[n], MOD - 2, MOD);
-        for (int i = n - 1; i >= 0; i--) inv[i] = inv[i + 1] * (i + 1) % MOD;
-        return (int)((ways(nums, fact, inv, MOD) - 1 + MOD) % MOD);
-    }
-    private long ways(int[] arr, long[] fact, long[] inv, int MOD) {
-        int m = arr.length;
-        if (m <= 2) return 1;
-        List<Integer> left = new ArrayList<>();
-        List<Integer> right = new ArrayList<>();
-        for (int x : arr) {
-            if (x < arr[0]) left.add(x);
-            else if (x > arr[0]) right.add(x);
+        int m = nums.length;
+        
+        // Table of Pascal's triangle
+        table = new long[m][m];
+        for (int i = 0; i < m; ++i) {
+            table[i][0] = table[i][i] = 1;
         }
-        int[] l = left.stream().mapToInt(i -> i).toArray();
-        int[] r = right.stream().mapToInt(i -> i).toArray();
-        return comb(m - 1, l.length, fact, inv, MOD) * ways(l, fact, inv, MOD) % MOD * ways(r, fact, inv, MOD) % MOD;
-    }
-    private long comb(int a, int b, long[] fact, long[] inv, int MOD) {
-        if (b < 0 || b > a) return 0;
-        return fact[a] * inv[b] % MOD * inv[a - b] % MOD;
-    }
-    private long modPow(long base, long exp, long mod) {
-        long res = 1;
-        while (exp > 0) {
-            if ((exp & 1) == 1) res = res * base % mod;
-            base = base * base % mod;
-            exp >>= 1;
+        for (int i = 2; i < m; i++) {
+            for (int j = 1; j < i; j++) {
+                table[i][j] = (table[i - 1][j - 1] + table[i - 1][j]) % mod;
+            }
         }
-        return res;
+        List<Integer> arrList = Arrays.stream(nums).boxed().collect(Collectors.toList());
+        return (int)((dfs(arrList) - 1) % mod);
+    }
+
+    private long dfs(List<Integer> nums) {
+        int m = nums.size();
+        if (m < 3) {
+            return 1;
+        }
+
+        List<Integer> leftNodes = new ArrayList<>();
+        List<Integer> rightNodes = new ArrayList<>();
+        for (int i = 1; i < m; ++i) {
+            if (nums.get(i) < nums.get(0)) {
+                leftNodes.add(nums.get(i));
+            } else {
+                rightNodes.add(nums.get(i));
+            }
+        }
+        long leftWays = dfs(leftNodes) % mod;
+        long rightWays = dfs(rightNodes) % mod;
+
+        return (((leftWays * rightWays) % mod) * table[m - 1][leftNodes.size()]) % mod;
     }
 }
