@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devarasi/Leet-code-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarasi/Leet-code-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devarasi/Leet-code-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/devarasi/Leet-code-solution/tree/master/3524-find-x-value-of-array-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarasi/Leet-code-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/devarasi/Leet-code-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/devarasi/Leet-code-solution/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/devarasi/Leet-code-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/devarasi/Leet-code-solution/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarasi/Leet-code-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/devarasi/Leet-code-solution/tree/master/0999-available-captures-for-rook) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarasi/Leet-code-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devarasi/Leet-code-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/devarasi/Leet-code-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
