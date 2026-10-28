@@ -14,6 +14,4 @@ class Solution {
         while (!dp[n - 1][x]) x++;
         return x;
     }
-}  
-  
-   
+}
