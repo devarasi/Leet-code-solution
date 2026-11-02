@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devarasi/Leet-code-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devarasi/Leet-code-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/devarasi/Leet-code-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devarasi/Leet-code-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/devarasi/Leet-code-solution/tree/master/2409-count-days-spent-together) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0228-summary-ranges](https://github.com/devarasi/Leet-code-solution/tree/master/0228-summary-ranges) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devarasi/Leet-code-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devarasi/Leet-code-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0748-shortest-completing-word](https://github.com/devarasi/Leet-code-solution/tree/master/0748-shortest-completing-word) |
 | [0942-di-string-match](https://github.com/devarasi/Leet-code-solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devarasi/Leet-code-solution/tree/master/0944-delete-columns-to-make-sorted) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devarasi/Leet-code-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/devarasi/Leet-code-solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devarasi/Leet-code-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/devarasi/Leet-code-solution/tree/master/2089-find-target-indices-after-sorting-array) |
