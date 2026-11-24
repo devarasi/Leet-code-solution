@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/devarasi/Leet-code-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devarasi/Leet-code-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/devarasi/Leet-code-solution/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devarasi/Leet-code-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/devarasi/Leet-code-solution/tree/master/3524-find-x-value-of-array-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/devarasi/Leet-code-solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/devarasi/Leet-code-solution/tree/master/3871-count-commas-in-range-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/devarasi/Leet-code-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devarasi/Leet-code-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devarasi/Leet-code-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devarasi/Leet-code-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devarasi/Leet-code-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devarasi/Leet-code-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/devarasi/Leet-code-solution/tree/master/3524-find-x-value-of-array-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/devarasi/Leet-code-solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devarasi/Leet-code-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devarasi/Leet-code-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/devarasi/Leet-code-solution/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devarasi/Leet-code-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devarasi/Leet-code-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/devarasi/Leet-code-solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/devarasi/Leet-code-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
